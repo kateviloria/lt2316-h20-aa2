@@ -1,6 +1,6 @@
-## LT2316 H20 Assignment A2 : Ner Classification
+# LT2316 H20 Assignment A2 : Ner Classification
 
-Name: *fill in your real name here* (if you don't want to use your real name with your current GitHub account, you will have to make another GitHub account)
+Name: Kate Viloria
 
 ## Notes on Part 1.
 
